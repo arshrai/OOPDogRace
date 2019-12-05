@@ -1,6 +1,6 @@
 ﻿namespace OOPDogRace
 {
-    class Bet : Guy
+    public class Bet : Guy
     {
         private double BetAmount;
         private int DogNumber;
